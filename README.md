@@ -4,12 +4,12 @@ arturoflores
 
 Personal Website and Portfolio
 
-** All projects links specify which company I been working. **
+**All projects links specify which company I been working.**
 
 ###New Projects
 ---
 
-** 2014 **
+**2014**
 
 * THE TRIBAL CHIEFS EDUCATION FOUNDATION - http://www.tcef.ca/
 
