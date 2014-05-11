@@ -10,41 +10,36 @@ Personal Website and Portfolio
 ---
 
 ** 2014 **
-THE TRIBAL CHIEFS EDUCATION FOUNDATION
-http://www.tcef.ca/
 
-SUPERIOR SAFETY 2005 LTD.
-http://superior-safety.ca/
+* THE TRIBAL CHIEFS EDUCATION FOUNDATION - http://www.tcef.ca/
 
-DENE TS E'DI SOCIETY
-http://www.denetsedi.ca/
+* SUPERIOR SAFETY 2005 LTD. - http://superior-safety.ca/
 
-BONNYVILLE PRO RODEO AND CHUCKWAGON ASSOCIATION
-http://www.bprca.com/
+* DENE TS E'DI SOCIETY - http://www.denetsedi.ca/
 
-FINDING WORK NORTHEAST ALBERTA
-http://www.findingworknortheastalberta.ca/
+* BONNYVILLE PRO RODEO AND CHUCKWAGON ASSOCIATION - http://www.bprca.com/
 
-Bonnyville SPCA
-http://bonnyvillespca.ca
+* FINDING WORK NORTHEAST ALBERTA - http://www.findingworknortheastalberta.ca/
 
-ROB BONNARD DESIGNS
-http://creationsbyrbdesigns.com/
+* Bonnyville SPCA - http://bonnyvillespca.ca
 
-The St. Louis Parish
-http://stlouisparish.ca/
+* ROB BONNARD DESIGNS - http://creationsbyrbdesigns.com/
 
-COMEC 
-http://www.comec.ca
+* The St. Louis Parish - http://stlouisparish.ca/
 
-CCL Networks
-http://www.cclnetworks.com
+* COMEC  - http://www.comec.ca
+
+* CCL Networks - http://www.cclnetworks.com
 
 ###On Hold
 
 ```
-COLD LAKE FIRST NATIONS
-http://www.clfns.com.***/
+* COLD LAKE FIRST NATIONS - http://www.clfns.com.***/
 
-JD COLLISION 2007 LTD.
-http://www.jdcollision2007ltd.ca/***
+* JD COLLISION 2007 LTD. - http://www.jdcollision2007ltd.ca/***
+```
+###Notes
+---
+* Will come more links of past projects.
+* Links for 2013 on hold.
+* Links for new works.
